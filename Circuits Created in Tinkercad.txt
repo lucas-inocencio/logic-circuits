@@ -1,0 +1,3 @@
+Latch with NAND Gates - https://www.tinkercad.com/things/g6o2LZmMP3w
+Latch with NOR Gates  - https://www.tinkercad.com/things/eAcfS5bvn7m
+Equality Comparator   - https://www.tinkercad.com/things/cnFpHXtPB3n
